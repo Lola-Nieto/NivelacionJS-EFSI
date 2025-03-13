@@ -21,7 +21,7 @@ function RealizarDivision(num1, num2){
     }
     console.log(mensaje);
 }
-
+/*
 function MostrarFraseRepetida(cadena, numero){
    let mostrar = ""; 
    for(let contador = 0; contador < numero; contador++) {
@@ -30,7 +30,8 @@ function MostrarFraseRepetida(cadena, numero){
    console.log(mostrar);
 }
 
-/*
+
+
 function getRandomIntIncluyendo(min, max) {
     console.log(min, max);
     min = Math.ceil(min);
